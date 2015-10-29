@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "description": "an interactive resume",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SystemDisc/resume.git"
+  },
+  "author": "\"Timothy Zorn\" <tim@zornco.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4"
+  }
+}

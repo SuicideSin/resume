@@ -1,0 +1,285 @@
+{
+	"name": {
+		"first": "Timothy",
+		"last": "Timothy"
+	},
+	"birthday": {
+		"month": 4,
+		"day": 10,
+		"year": 1991
+	},
+	"skills": {
+		"languages": [
+			{
+				"name": "PHP",
+				"level": 10
+			},
+			{
+				"name": "JavaScript",
+				"level": 10
+			},
+			{
+				"name": "HTML",
+				"level": 10
+			},
+			{
+				"name": "CSS",
+				"level": 10
+			},
+			{
+				"name": "SQL",
+				"level": 10
+			},
+			{
+				"name": "Java",
+				"level": 8
+			},
+			{
+				"name": "C#",
+				"level": 7
+			},
+			{
+				"name": "Rust",
+				"level": 7
+			},
+			{
+				"name": "C++",
+				"level": 6
+			}
+		],
+		"databases": [
+			{
+				"name": "MySQL",
+				"level": 10
+			},
+			{
+				"name": "MongoDB",
+				"level": 8
+			},
+			{
+				"name": "PostgreSQL",
+				"level": 7
+			},
+			{
+				"name": "MS SQL",
+				"level": 5
+			}
+		],
+		"frameworks": [
+			{
+				"name": "CodeIgniter",
+				"level": 10
+			},
+			{
+				"name": "AngularJS",
+				"level": 10
+			},
+			{
+				"name": "FUEL CMS",
+				"level": 8
+			},
+			{
+				"name": "Drupal",
+				"level": 6
+			}
+		],
+		"runtimes": [
+			{
+				"name": "NodeJS",
+				"level": 10
+			},
+			{
+				"name": "NW.js",
+				"level": 10
+			}
+		],
+		"toolstacks": [
+			{
+				"name": "LAMP",
+				"level": 10
+			},
+			{
+				"name": "MEAN",
+				"level": 8
+			}
+		],
+		"libraries": [
+			{
+				"name": "jQuery",
+				"level": 10
+			},
+			{
+				"name": "Kris Kowal's Q",
+				"level": 10
+			}
+		]
+	},
+	"employment": [
+		{
+			"name": "Christian Globe Network",
+			"job": {
+				"title": "Full Stack Developer",
+				"languages": [
+					"PHP",
+					"JavaScript",
+					"C++",
+					"HTML",
+					"CSS",
+				],
+				"skills": [
+					"CodeIgniter",
+					"AngularJS",
+					"jQuery",
+					"LAMP"
+				],
+				"projects": [
+					{
+						"name": "Sermons.com",
+						"description": ""
+					}
+				]
+			},
+			"start": {
+				"month": 8,
+				"year": 2014
+			},
+			"end": {
+				"now": true
+			}
+		},
+		{
+			"name": "Zorn & Cameron LLC",
+			"job": {
+				"title": "CEO + Developer",
+				"languages": [
+					"PHP",
+					"JavaScript",
+					"C++"
+				]
+			},
+			"start": {
+				"month": 12,
+				"year": 2013
+			},
+			"end": {
+				"now": true
+			}
+		},
+		{
+			"name": "Institute for American Values",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 2,
+				"year": 2014
+			},
+			"end": {
+				"month": 2,
+				"year": 2015
+			}
+		},
+		{
+			"name": "Cheddar Enterprises LLC",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 11,
+				"year": 2014
+			},
+			"end": {
+				"month": 12,
+				"year": 2014
+			}
+		},
+		{
+			"name": "More Cabbage LLC",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 12,
+				"year": 2013
+			},
+			"end": {
+				"month": 11,
+				"year": 2014
+			}
+		},
+		{
+			"name": "Integrity Payment Systems",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 8,
+				"year": 2014
+			},
+			"end": {
+				"month": 10,
+				"year": 2014
+			}
+		},
+		{
+			"name": "RoseCap Investment Advisors",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 12,
+				"year": 2013
+			},
+			"end": {
+				"month": 1,
+				"year": 2014
+			}
+		},
+		{
+			"name": "Digital Fundraising School",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 12,
+				"year": 2013
+			},
+			"end": {
+				"month": 12,
+				"year": 2013
+			}
+		},
+		{
+			"name": "PA Elite Scouting",
+			"job": {
+				"title": "Contract Developer"
+			},
+			"start": {
+				"month": 11,
+				"year": 2013
+			},
+			"end": {
+				"month": 12,
+				"year": 2013
+			}
+		},
+		{
+			"name": "LIFT School of Music",
+			"job": {
+				"title": "Pro-bono Developer"
+			},
+			"start": {
+				"month": 9,
+				"year": 2013
+			},
+			"end": {
+				"month": 12,
+				"year": 2013
+			}
+		}
+	],
+	"facts": [
+		"I've been interested in programming since as far back as I can remember. I started learning basic programming skills when I was around 6 years old. By the time I was 8, I was already programming simple applications for myself, and to show off to my dad.",
+		"I started my first company, PhonePhreedom, when I was 17 years old. It was a VoIP service provided. It didn't go anywhere, and I walked away from it breaking even. This motivated my to learn more, and continue toward my goal of one day owning my own software firm."
+	]
+}
